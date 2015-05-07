@@ -1,0 +1,1 @@
+86e616b1534c46bdf6e2ca0e8140f55e6e55bc85c6a0b2d8f8debd81f96532f7  cachecoin-qt

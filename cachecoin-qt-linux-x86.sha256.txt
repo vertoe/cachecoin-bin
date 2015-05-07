@@ -1,1 +1,0 @@
-008e975afd04073e0227b75bafa566083538e9608ac82c87b5d1028bfa9d0c1a  cachecoin-qt-linux-x86
