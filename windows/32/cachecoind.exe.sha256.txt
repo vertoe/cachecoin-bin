@@ -1,0 +1,1 @@
+f055cf5e349838bb87885feb404d4a26a89d2bd248bcda8e65c538830a4f5342  windows/32/cachecoind.exe

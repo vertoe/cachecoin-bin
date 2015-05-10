@@ -1,0 +1,1 @@
+0f105afe3ff6e3bc93a62ea2153a5b09b1693b4a73f9382f4c30f909cf841437  windows/32/cachecoin-qt.exe

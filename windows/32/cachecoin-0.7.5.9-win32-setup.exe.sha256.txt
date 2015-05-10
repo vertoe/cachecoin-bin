@@ -1,0 +1,1 @@
+d2c7df6186f79de20f5a378645bf37b6cd48eac4c9652db1bd7bc4e237368e6d  windows/32/cachecoin-0.7.5.9-win32-setup.exe
